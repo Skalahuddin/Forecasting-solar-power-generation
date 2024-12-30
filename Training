@@ -1,5 +1,0 @@
-import pandas as pd
-import numpy as np
-
-data = read_csv("generation_history.csv")
-
